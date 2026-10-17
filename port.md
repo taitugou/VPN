@@ -1,0 +1,1 @@
+https://dp3.config-sync.com/api/v1/client/subscribe?token=69e4fde8d3b3dc968e9a032f398ddc60
